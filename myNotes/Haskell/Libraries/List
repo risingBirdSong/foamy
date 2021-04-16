@@ -1,0 +1,8 @@
+(++) :: [a] -> [a] -> [a] infixr 5Source#
+
+Append two lists, i.e.,
+
+[x1, ..., xm] ++ [y1, ..., yn] == [x1, ..., xm, y1, ..., yn]
+[x1, ..., xm] ++ [y1, ...] == [x1, ..., xm, y1, ...]
+If the first list is not finite, the result is the first list.
+
