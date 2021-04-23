@@ -1,6 +1,5 @@
 [[haskellTutorialMain]]
 [[commandLineMain]]
-[[linuxMain]]
 # teleport tutorial
 
 the repo 

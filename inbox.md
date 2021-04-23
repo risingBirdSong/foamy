@@ -11,3 +11,13 @@
 - That's ok, you can just delete them!
   - You can always find them in your git history, if you really need it!
 
+
+-------- my inbox ---------
+how are applicatives monads?  
+```hs
+ff <*> fa = do
+  f <- ff
+  a <- fa
+  pure (f a)
+```
+
